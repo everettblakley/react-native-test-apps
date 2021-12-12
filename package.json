@@ -11,6 +11,8 @@
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.66.2",
+    "react-native-safe-area-context": "^3.3.2",
+    "tailwind-rn": "^3.0.1",
     "tslib": "^2.0.0"
   },
   "devDependencies": {
