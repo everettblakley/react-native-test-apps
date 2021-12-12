@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "resizables": "apps/resizables",
+    "resizables-e2e": "apps/resizables-e2e"
+  }
+}
